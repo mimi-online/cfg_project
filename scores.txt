@@ -1,0 +1,3 @@
+Scores 
+User = 0 
+Opponent = 1
